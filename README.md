@@ -107,20 +107,6 @@ https://milenaamaral.github.io/anybank-app/
 
 ---
 
-# 📊 Minha evolução no GitHub
-
-<div align="center">
-
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=milenaamaral&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<br>
-
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=milenaamaral&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
 # 🌱 Atualmente estudando
 
 ```txt
