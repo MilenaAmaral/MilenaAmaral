@@ -37,7 +37,7 @@ Tenho interesse em unir tecnologia, design e conhecimento de negócio para criar
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,java,sql,git,github,vscode,figma" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,java,cs,dotnet,sql,git,github,vscode,figma" />
 
 </div>
 
@@ -94,9 +94,9 @@ https://milenaamaral.github.io/etiqueta-medicacao/
 
 ## 💳 AnyBank
 
-Aplicação bancária desenvolvida para praticar conceitos de desenvolvimento de software, simulando funcionalidades de uma plataforma financeira.
+Aplicação bancária desenvolvida para simular operações financeiras, explorando conceitos de desenvolvimento de software, lógica de programação e construção de interfaces.
 
-Projeto focado em lógica de programação, criação de interfaces e experiência do usuário.
+Projeto criado para aplicar conhecimentos em desenvolvimento de sistemas e experiência do usuário.
 
 **Tecnologias utilizadas:**
 
@@ -106,6 +106,12 @@ HTML • CSS • JavaScript
 https://milenaamaral.github.io/anybank-app/
 
 ---
+
+# 🎯 Objetivo profissional
+
+Busco uma oportunidade como Desenvolvedora Front-End Júnior, onde eu possa aplicar meus conhecimentos técnicos, evoluir profissionalmente e contribuir para criação de soluções digitais.
+
+Minha experiência na área da saúde me trouxe habilidades como organização, atenção aos detalhes, resolução de problemas e trabalho em equipe, competências que aplico no desenvolvimento de software.
 
 # 🌱 Atualmente estudando
 
@@ -117,3 +123,4 @@ https://milenaamaral.github.io/anybank-app/
 🔗 Git e GitHub
 🧩 Boas práticas de programação
 #️⃣ C# e desenvolvimento com .NET (iniciando)
+```
