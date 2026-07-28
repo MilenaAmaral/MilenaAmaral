@@ -111,11 +111,7 @@ https://milenaamaral.github.io/anybank-app/
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=milenaamaral&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=milenaamaral&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=milenaamaral&show_icons=true&theme=tokyonight"/>
 
 </div>
 
