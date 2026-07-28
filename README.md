@@ -2,14 +2,20 @@
 
 # ✨ Oi, eu sou a Milena Amaral
 
-<img src="https://readme-typing-svg.herokuapp.com/?color=D6B98C&size=28&center=true&vCenter=true&width=700&lines=Front-End+Developer+em+evolução+💻;Apaixonada+por+UI%2FUX+🎨;Criando+interfaces+modernas+e+elegantes+✨" />
+<img src="https://readme-typing-svg.herokuapp.com/?color=D6B98C&size=28&center=true&vCenter=true&width=750&lines=Front-End+Developer+em+formação+💻;Criando+interfaces+modernas+e+funcionais+✨;Unindo+tecnologia+e+experiência+na+saúde+🏥" />
 
 <br>
 
-💻 Estudando desenvolvimento Front-End  
-🎨 Apaixonada por interfaces clean e modernas  
-📚 Aprendendo JavaScript, React e UI/UX  
-🐶 Dog mom + futura dev incrível  
+💻 Desenvolvedora Front-End em formação  
+🎨 Apaixonada por UI/UX e interfaces clean  
+🏥 Técnica em Enfermagem em transição para tecnologia  
+📚 Estudante de Engenharia de Software / 6°Semestre
+
+<br>
+
+<a href="https://www.linkedin.com/in/milenaamaraldias/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Milena%20Amaral%20Dias-blue?style=for-the-badge&logo=linkedin"/>
+</a>
 
 </div>
 
@@ -17,11 +23,13 @@
 
 # 🌷 Sobre mim
 
-- ✨ Atualmente desenvolvendo projetos Front-End
-- 🧠 Estudando pela Alura
-- 🎯 Focada em HTML, CSS, JavaScript e React
-- 🏥 Desenvolvendo um sistema de triagem digital para UBS
-- 🎨 Gosto de design minimalista e experiências elegantes
+Sou Técnica em Enfermagem e estudante de Engenharia de Software, realizando minha transição de carreira para Desenvolvimento Front-End.
+
+Minha experiência na área da saúde me proporcionou uma visão prática sobre processos, organização de informações e identificação de necessidades reais dos usuários.
+
+Atualmente desenvolvo aplicações utilizando HTML, CSS e JavaScript, buscando criar soluções digitais com foco em usabilidade, experiência do usuário e boas práticas de desenvolvimento.
+
+Tenho interesse em unir tecnologia, design e conhecimento de negócio para criar aplicações que gerem impacto positivo.
 
 ---
 
@@ -29,22 +37,73 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode,figma" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,java,sql,git,github,vscode,figma" />
 
 </div>
 
+<br>
+
+### Conhecimentos:
+
+- HTML5
+- CSS3
+- JavaScript
+- React
+- Java
+- Programação Orientada a Objetos
+- SQL
+- Git e GitHub
+- Responsividade
+- UI/UX Design
+- Testes e organização de código
+- C# (em aprendizado)
+
 ---
 
-# 📌 Projetos em destaque
+# 💻 Projetos em destaque
 
-## 🏥 Sistema de Triagem UBS
-Sistema focado em organização e triagem digital para unidades básicas de saúde.
+## 🏥 Triage UBS
 
-## 🛍️ Landing Page de Perfumaria
-Projeto moderno com foco em responsividade e experiência visual elegante.
+Sistema desenvolvido para auxiliar o processo de triagem em Unidades Básicas de Saúde, organizando informações dos pacientes e contribuindo para um atendimento mais eficiente.
 
-## 💻 Portfólio Front-End
-Meu espaço para reunir projetos, estudos e evolução na programação.
+Projeto inspirado na minha experiência dentro da área da saúde, buscando transformar processos reais em soluções digitais.
+
+**Tecnologias utilizadas:**
+
+HTML • CSS • JavaScript
+
+🔗 **Demo:**  
+https://milenaamaral.github.io/triage-ubs/
+
+---
+
+## 💊 Etiqueta de Medicação
+
+Aplicação desenvolvida para auxiliar na identificação e organização de medicamentos, trazendo mais segurança e praticidade para o processo de administração.
+
+Projeto criado com base em uma necessidade observada na rotina hospitalar, utilizando tecnologia para apoiar profissionais da saúde.
+
+**Tecnologias utilizadas:**
+
+HTML • CSS • JavaScript
+
+🔗 **Demo:**  
+https://milenaamaral.github.io/etiqueta-medicacao/
+
+---
+
+## 💳 AnyBank
+
+Aplicação bancária desenvolvida para praticar conceitos de desenvolvimento de software, simulando funcionalidades de uma plataforma financeira.
+
+Projeto focado em lógica de programação, criação de interfaces e experiência do usuário.
+
+**Tecnologias utilizadas:**
+
+HTML • CSS • JavaScript
+
+🔗 **Demo:**  
+https://milenaamaral.github.io/anybank-app/
 
 ---
 
@@ -52,19 +111,21 @@ Meu espaço para reunir projetos, estudos e evolução na programação.
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=milenaamaral&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=milenaamaral&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
 
 </div>
 
 ---
 
-# 🌸 Atualmente estudando
+# 🌱 Atualmente estudando
 
 ```txt
-📚 JavaScript
+📚 JavaScript avançado
 ⚛️ React
-🎨 UI/UX
-📱 Responsividade
+🎨 UI/UX Design
+📱 Desenvolvimento responsivo
 🔗 Git e GitHub
+🧩 Boas práticas de programação
+#️⃣ C# e desenvolvimento com .NET (iniciando)
