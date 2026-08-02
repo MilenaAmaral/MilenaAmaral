@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=35D0A3&center=true&vCenter=true&width=600&lines=Desenvolvedora+Full+Stack+em+forma%C3%A7%C3%A3o+%F0%9F%92%BB;HTML+%C2%B7+CSS+%C2%B7+JavaScript+%C2%B7+SQL+%C2%B7+C%23;Unindo+sa%C3%BAde+e+tecnologia+%F0%9F%8F%A5" alt="Texto animado de apresentação" />
 
-🩺 Ex-Técnica de Enfermagem em transição para tecnologia&nbsp;&nbsp;·&nbsp;&nbsp;💻 Full Stack Júnior em formação&nbsp;&nbsp;·&nbsp;&nbsp;📚 Engenharia de Software — 6º semestre
+🩺Técnica de Enfermagem em transição para tecnologia&nbsp;&nbsp;·&nbsp;&nbsp;💻 Full Stack Júnior em formação&nbsp;&nbsp;·&nbsp;&nbsp;📚 Engenharia de Software — 6º semestre
 
 <a href="https://milenaamaral.github.io/meu-portifolio/" target="_blank">
   <img src="https://img.shields.io/badge/Portfólio-Ver_site-35D0A3?style=for-the-badge" alt="Link do portfólio" />
@@ -22,7 +22,7 @@
 
 ## 🌷 Sobre mim
 
-Sou ex-Técnica de Enfermagem e estudante de Engenharia de Software, em transição de carreira para o desenvolvimento **Full Stack**.
+Sou Técnica de Enfermagem e estudante de Engenharia de Software, em transição de carreira para o desenvolvimento **Full Stack**.
 
 Minha experiência na saúde me deu uma visão prática de processos, organização de informação e identificação de necessidades reais de quem usa o sistema — não só de quem escreve o código.
 
