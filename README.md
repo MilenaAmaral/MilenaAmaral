@@ -62,15 +62,6 @@ Simulação de operações bancárias, explorando lógica de programação, gere
 
 <br>
 
-## 📊 Atividade no GitHub
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MilenaAmaral&show_icons=true&theme=dark&hide_border=true&bg_color=0b0f14&title_color=35D0A3&icon_color=5B8CFF&text_color=e7ecf1" alt="Estatísticas do GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MilenaAmaral&layout=compact&theme=dark&hide_border=true&bg_color=0b0f14&title_color=35D0A3&text_color=e7ecf1" alt="Linguagens mais usadas" />
-</div>
-
-<br>
-
 ## 🎯 Objetivo profissional
 
 Busco minha primeira oportunidade como **Desenvolvedora Full Stack Júnior**, onde eu possa aplicar meus conhecimentos técnicos, evoluir com um time e contribuir com soluções digitais.
@@ -93,6 +84,6 @@ Da saúde trago organização, atenção aos detalhes e trabalho em equipe sob p
 
 <div align="center">
 
-💌 Vamos conversar? [contato@seudominio.com](mailto:contato@seudominio.com) · [LinkedIn](https://www.linkedin.com/in/milenaamaraldias/) · [Portfólio](https://milenaamaral.github.io/meu-portifolio/)
+💌 Vamos conversar? [milena.camargo.amaral@outlook.com](mailto:contato@seudominio.com) · [LinkedIn](https://www.linkedin.com/in/milenaamaraldias/) · [Portfólio](https://milenaamaral.github.io/meu-portifolio/)
 
 </div>
