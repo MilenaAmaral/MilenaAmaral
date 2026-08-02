@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=35D0A3&center=true&vCenter=true&width=600&lines=Desenvolvedora+Full+Stack+em+forma%C3%A7%C3%A3o+%F0%9F%92%BB;HTML+%C2%B7+CSS+%C2%B7+JavaScript+%C2%B7+SQL+%C2%B7+C%23;Unindo+sa%C3%BAde+e+tecnologia+%F0%9F%8F%A5" alt="Texto animado de apresentação" />
 
-🩺Técnica de Enfermagem em transição para tecnologia&nbsp;&nbsp;·&nbsp;&nbsp;💻 Full Stack Júnior em formação&nbsp;&nbsp;·&nbsp;&nbsp;📚 Engenharia de Software — 6º semestre
+🩺Técnica de Enfermagem em transição para tecnologia&nbsp;&nbsp;·&nbsp;&nbsp;💻Desenvolvedora de Software em formação&nbsp;&nbsp;·&nbsp;&nbsp;📚 Engenharia de Software — 6º semestre
 
 <a href="https://milenaamaral.github.io/meu-portifolio/" target="_blank">
   <img src="https://img.shields.io/badge/Portfólio-Ver_site-35D0A3?style=for-the-badge" alt="Link do portfólio" />
@@ -38,7 +38,7 @@ Hoje desenvolvo aplicações web do front ao back, com HTML, CSS, JavaScript, SQ
 
 <br>
 
-**Sei bem:** HTML5 · CSS3 · JavaScript · Git & GitHub · Responsividade · Lógica de programação
+**Principais tecnologias:** HTML5 · CSS3 · JavaScript · Git & GitHub · Responsividade · Lógica de programação
 **Uso com confiança crescente:** SQL · C# · Programação Orientada a Objetos · APIs REST
 **Estudando agora:** React · Boas práticas de back-end · UI/UX aplicado a produto
 
@@ -64,7 +64,7 @@ Simulação de operações bancárias, explorando lógica de programação, gere
 
 ## 🎯 Objetivo profissional
 
-Busco minha primeira oportunidade como **Desenvolvedora Full Stack Júnior**, onde eu possa aplicar meus conhecimentos técnicos, evoluir com um time e contribuir com soluções digitais.
+Busco minha primeira oportunidade como **Desenvolvedora Full Stack Júnior**, onde eu possa aplicar meus conhecimentos técnicos, evoluir com um time e contribuir com soluções que gerem valor para usuários e para o negócio.
 
 Da saúde trago organização, atenção aos detalhes e trabalho em equipe sob pressão; da tecnologia, a vontade constante de aprender rápido e sair da zona de conforto.
 
