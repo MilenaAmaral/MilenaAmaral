@@ -84,6 +84,6 @@ Da saúde trago organização, atenção aos detalhes e trabalho em equipe sob p
 
 <div align="center">
 
-💌 Vamos conversar? [milena.camargo.amaral@outlook.com](mailto:contato@seudominio.com) · [LinkedIn](https://www.linkedin.com/in/milenaamaraldias/) · [Portfólio](https://milenaamaral.github.io/meu-portifolio/)
+💌 Vamos conversar? [E-mail](mailto:milena.camargo.amaral@outlook.com) · [LinkedIn](https://www.linkedin.com/in/milenaamaraldias/) · [Portfólio](https://milenaamaral.github.io/meu-portifolio/)
 
 </div>
