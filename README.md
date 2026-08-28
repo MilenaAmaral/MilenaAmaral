@@ -58,12 +58,9 @@ Hoje desenvolvo aplicações web do front ao back, com HTML, CSS, JavaScript, SQ
 
 <p align="center"><sub>· · ·</sub></p>
 
-## 📊 GitHub stats
+## 📊 Sequência de contribuições
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=MilenaAmaral&show_icons=true&hide_border=false&border_color=E8C4C0&border_radius=12&bg_color=FFF8F3&title_color=B76E79&text_color=4A3F3F&icon_color=C9A15F" alt="Estatísticas do GitHub" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MilenaAmaral&layout=compact&hide_border=false&border_color=E8C4C0&border_radius=12&bg_color=FFF8F3&title_color=B76E79&text_color=4A3F3F&langs_count=8" alt="Linguagens mais usadas" height="165" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MilenaAmaral&hide_border=false&border=E8C4C0&border_radius=12&background=FFF8F3&ring=B76E79&fire=C9A15F&currStreakLabel=B76E79&sideLabels=4A3F3F&currStreakNum=3A2E2E&sideNums=3A2E2E&dates=8A7A75" alt="Sequência de contribuições" />
 
