@@ -6,7 +6,7 @@
 
 🩺 Técnica de Enfermagem em transição para tecnologia  ·  💻 Desenvolvedora de Software em formação  ·  📚 Engenharia de Software
 
-<br>
+<br><br>
 
 <a href="https://milenaamaral.github.io/meu-portifolio/" target="_blank">
   <img src="https://img.shields.io/badge/Portf%C3%B3lio-Ver_site-B76E79?style=for-the-badge&logo=vercel&logoColor=white&labelColor=FDF1EC" alt="Link do portfólio" />
@@ -15,10 +15,6 @@
 <a href="https://www.linkedin.com/in/milenaamaraldias/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Milena_Amaral-C9A15F?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=FDF1EC" alt="Link do LinkedIn" />
 </a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=MilenaAmaral&label=Visualiza%C3%A7%C3%B5es+do+perfil&color=B76E79&style=for-the-badge&labelColor=FDF1EC" alt="Contador de visualizações do perfil" />
 
 </div>
 
@@ -32,7 +28,7 @@ Sou Técnica de Enfermagem e estudante de Engenharia de Software, em transição
 
 Minha experiência na área da saúde despertou meu interesse por tecnologia a partir de problemas e necessidades que fazem parte da rotina profissional. Essa vivência influencia a forma como penso meus projetos: buscando transformar problemas reais em soluções digitais simples e úteis.
 
-Atualmente, meu foco está no desenvolvimento web e na construção de uma base sólida em **front-end, back-end, bancos de dados e APIs**.
+Atualmente, meu foco está no desenvolvimento de software e na construção de uma base sólida em **front-end, back-end, bancos de dados e APIs**.
 
 Tenho desenvolvido projetos próprios para praticar programação, lógica, interfaces, integração com APIs, persistência de dados e organização de código.
 
@@ -46,7 +42,7 @@ Estou construindo minha evolução de forma progressiva, priorizando prática, p
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,cs,git,github,mysql,vscode&theme=light" alt="Tecnologias" />
+<img src="https://skillicons.dev/icons?i=html,css,js,python,cs,nodejs,mysql,git,github,vscode&theme=light" alt="Tecnologias" />
 
 </div>
 
@@ -59,22 +55,29 @@ Estou construindo minha evolução de forma progressiva, priorizando prática, p
 * **JavaScript**
 * **Python**
 * **SQL**
+* **MySQL**
+* **C#**
+* **Programação Orientada a Objetos**
+* **Node.js**
 * **Git e GitHub**
 * **Lógica de programação**
 * **Responsividade**
 * **Consumo e integração com APIs**
+* **APIs REST**
+* **FastAPI**
+* **ORM**
 
 ### 📚 Aprofundando meus conhecimentos
 
-* **C#**
-* **Programação Orientada a Objetos**
-* **MySQL**
-* **Modelagem de dados**
-* **APIs REST**
+* **JavaScript**
+* **C# e .NET**
+* **SQL e modelagem de dados**
 * **Node.js**
-* **FastAPI**
+* **APIs REST**
 * **ORM**
 * **Testes unitários**
+* **Boas práticas de desenvolvimento**
+* **Estrutura e organização de aplicações**
 
 ### 🌱 Próximas etapas da minha trilha
 
@@ -82,8 +85,8 @@ Estou construindo minha evolução de forma progressiva, priorizando prática, p
 * **React**
 * **Docker**
 * **AWS**
-* **Boas práticas de desenvolvimento**
-* **Arquitetura e organização de aplicações**
+* **Arquitetura de aplicações**
+* **Boas práticas de back-end**
 
 <br>
 
@@ -119,7 +122,7 @@ Docker
 AWS
 ```
 
-Essa trilha representa meu momento atual de aprendizado e as próximas tecnologias que estou planejando aprofundar.
+Essa trilha representa meu momento atual de aprendizado e as próximas tecnologias que pretendo aprofundar ao longo da minha formação.
 
 <br>
 
@@ -195,18 +198,6 @@ O sistema está sendo desenvolvido de forma incremental, incluindo monitoramento
 
 <p align="center"><sub>· · ·</sub></p>
 
-## 📊 GitHub
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=MilenaAmaral&show_icons=true&hide_border=false&border_color=E8C4C0&bg_color=FFF8F3&title_color=B76E79&icon_color=C9A15F&text_color=4A3F3F" alt="Estatísticas do GitHub" />
-
-</div>
-
-<br>
-
-<p align="center"><sub>· · ·</sub></p>
-
 ## 🎯 Objetivo profissional
 
 Busco uma oportunidade na área de desenvolvimento de software, especialmente em posições **Júnior**, onde eu possa aplicar os conhecimentos que venho construindo, aprender com profissionais mais experientes e contribuir com projetos reais.
@@ -226,7 +217,7 @@ JavaScript
    ↓
 SQL / MySQL
    ↓
-C# e POO
+C# e Programação Orientada a Objetos
    ↓
 Node.js
    ↓
@@ -243,11 +234,33 @@ Meu foco neste momento é **entender os fundamentos e transformar conhecimento e
 
 <br>
 
+<p align="center"><sub>· · ·</sub></p>
+
+## 📚 Formação e aprendizado
+
+**Engenharia de Software**
+
+Estudante, com foco em desenvolvimento de software, programação e construção de aplicações.
+
+**Cursos e estudos complementares**
+
+* Desenvolvimento Web
+* JavaScript
+* Python
+* SQL e Banco de Dados
+* C#
+* APIs
+* Git e GitHub
+* Cloud Computing
+* Inteligência Artificial
+
+<br>
+
 <div align="center">
 
 <p align="center"><sub>· · ·</sub></p>
 
-💌 **Vamos conversar?**
+## 💌 Vamos conversar?
 
 <a href="https://www.linkedin.com/in/milenaamaraldias/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Milena_Amaral-C9A15F?style=flat-square&logo=linkedin&logoColor=white&labelColor=FDF1EC" alt="LinkedIn" />
@@ -261,7 +274,7 @@ Meu foco neste momento é **entender os fundamentos e transformar conhecimento e
 
 <sub>Construindo conhecimento, um projeto de cada vez. 🤍</sub>
 
-<br>
+<br><br>
 
 <sub>feito por <strong>Milena Amaral</strong></sub>
 
