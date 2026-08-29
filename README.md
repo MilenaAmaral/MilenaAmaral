@@ -1,21 +1,19 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FDF1EC,50:E8C4C0,100:C9A15F&height=190&section=header&text=Milena%20Amaral&fontSize=42&fontColor=3A2E2E&fontAlignY=38&desc=Full%20Stack%20Developer%20em%20forma%C3%A7%C3%A3o%20%7C%20Sa%C3%BAde%20%2B%20Tecnologia&descAlignY=58&descSize=16&descColor=5C4A4A&animation=fadeIn" alt="Banner de apresentação" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FDF1EC,50:E8C4C0,100:C9A15F&height=190&section=header&text=Milena%20Amaral&fontSize=42&fontColor=3A2E2E&fontAlignY=38&desc=Desenvolvedora%20de%20Software%20em%20forma%C3%A7%C3%A3o%20%7C%20Sa%C3%BAde%20%2B%20Tecnologia&descAlignY=58&descSize=16&descColor=5C4A4A&animation=fadeIn" alt="Banner de apresentação" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=500&size=20&pause=1200&color=B76E79&center=true&vCenter=true&width=650&lines=Desenvolvedora+Full+Stack+em+forma%C3%A7%C3%A3o+%F0%9F%A9%B0;HTML+%C2%B7+CSS+%C2%B7+JavaScript+%C2%B7+SQL+%C2%B7+C%23;Unindo+sa%C3%BAde+e+tecnologia+%F0%9F%8C%B8" alt="Texto animado de apresentação" />
+<img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=500&size=20&pause=1200&color=B76E79&center=true&vCenter=true&width=650&lines=Desenvolvedora+de+Software+em+forma%C3%A7%C3%A3o+%F0%9F%92%BB;HTML+%C2%B7+CSS+%C2%B7+JavaScript+%C2%B7+SQL;Front-end+%C2%B7+Back-end+%C2%B7+APIs+%C2%B7+Banco+de+Dados" alt="Texto animado de apresentação" />
 
-🩺 Técnica de Enfermagem em transição para tecnologia&nbsp;&nbsp;·&nbsp;&nbsp;💻 Desenvolvedora de Software em formação&nbsp;&nbsp;·&nbsp;&nbsp;📚 Engenharia de Software — 6º semestre
+🩺 Técnica de Enfermagem em transição para tecnologia  ·  💻 Desenvolvedora de Software em formação  ·  📚 Engenharia de Software
 
 <br>
 
 <a href="https://milenaamaral.github.io/meu-portifolio/" target="_blank">
   <img src="https://img.shields.io/badge/Portf%C3%B3lio-Ver_site-B76E79?style=for-the-badge&logo=vercel&logoColor=white&labelColor=FDF1EC" alt="Link do portfólio" />
 </a>
+
 <a href="https://www.linkedin.com/in/milenaamaraldias/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Milena_Amaral-C9A15F?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=FDF1EC" alt="Link do LinkedIn" />
-</a>
-<a href="mailto:milena.camargo.amaral@outlook.com">
-  <img src="https://img.shields.io/badge/E--mail-Contato-D9A5AE?style=for-the-badge&logo=gmail&logoColor=white&labelColor=FDF1EC" alt="Link de e-mail" />
 </a>
 
 <br><br>
@@ -30,41 +28,98 @@
 
 ## 🌷 Sobre mim
 
-Sou Técnica de Enfermagem e estudante de Engenharia de Software, em transição de carreira para o desenvolvimento **Full Stack**.
+Sou Técnica de Enfermagem e estudante de Engenharia de Software, em transição de carreira para tecnologia.
 
-Minha experiência na saúde me deu uma visão prática de processos, organização de informação e identificação de necessidades reais de quem usa o sistema — não só de quem escreve o código.
+Minha experiência na área da saúde despertou meu interesse por tecnologia a partir de problemas e necessidades que fazem parte da rotina profissional. Essa vivência influencia a forma como penso meus projetos: buscando transformar problemas reais em soluções digitais simples e úteis.
 
-Hoje desenvolvo aplicações web do front ao back, com HTML, CSS, JavaScript, SQL e C#, buscando construir soluções que unam usabilidade, boas práticas e lógica sólida.
+Atualmente, meu foco está no desenvolvimento web e na construção de uma base sólida em **front-end, back-end, bancos de dados e APIs**.
 
-<br>
+Tenho desenvolvido projetos próprios para praticar programação, lógica, interfaces, integração com APIs, persistência de dados e organização de código.
 
-<p align="center"><sub>· · ·</sub></p>
-
-## 🚀 Tecnologias
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,cs,dotnet,sql,git,github,vscode,figma&theme=light" alt="Ícones das tecnologias" />
-</div>
-
-<br>
-
-| Nível | Stack |
-|---|---|
-| 🎀 **Principais tecnologias** | HTML5 · CSS3 · JavaScript · Git & GitHub · Responsividade · Lógica de programação |
-| 🌸 **Uso com confiança crescente** | SQL · C# · Programação Orientada a Objetos · APIs REST |
-| 🤍 **Estudando agora** | React · Boas práticas de back-end · UI/UX aplicado a produto |
+Estou construindo minha evolução de forma progressiva, priorizando prática, projetos reais e entendimento dos fundamentos.
 
 <br>
 
 <p align="center"><sub>· · ·</sub></p>
 
-## 📊 Sequência de contribuições
+## 🛠️ Tecnologias e conhecimentos
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MilenaAmaral&hide_border=false&border=E8C4C0&border_radius=12&background=FFF8F3&ring=B76E79&fire=C9A15F&currStreakLabel=B76E79&sideLabels=4A3F3F&currStreakNum=3A2E2E&sideNums=3A2E2E&dates=8A7A75" alt="Sequência de contribuições" />
+<img src="https://skillicons.dev/icons?i=html,css,js,python,cs,git,github,mysql,vscode&theme=light" alt="Tecnologias" />
 
 </div>
+
+<br>
+
+### 💻 Já utilizo em projetos e estudos
+
+* **HTML5**
+* **CSS3**
+* **JavaScript**
+* **Python**
+* **SQL**
+* **Git e GitHub**
+* **Lógica de programação**
+* **Responsividade**
+* **Consumo e integração com APIs**
+
+### 📚 Aprofundando meus conhecimentos
+
+* **C#**
+* **Programação Orientada a Objetos**
+* **MySQL**
+* **Modelagem de dados**
+* **APIs REST**
+* **Node.js**
+* **FastAPI**
+* **ORM**
+* **Testes unitários**
+
+### 🌱 Próximas etapas da minha trilha
+
+* **MongoDB / NoSQL**
+* **React**
+* **Docker**
+* **AWS**
+* **Boas práticas de desenvolvimento**
+* **Arquitetura e organização de aplicações**
+
+<br>
+
+<p align="center"><sub>· · ·</sub></p>
+
+## 🗺️ Minha trilha de desenvolvimento
+
+```text
+HTML
+  ↓
+CSS
+  ↓
+JavaScript
+  ↓
+Git & GitHub
+  ↓
+SQL / MySQL
+  ↓
+Node.js
+  ↓
+APIs
+  ↓
+ORM
+  ↓
+MongoDB
+  ↓
+React
+  ↓
+Testes
+  ↓
+Docker
+  ↓
+AWS
+```
+
+Essa trilha representa meu momento atual de aprendizado e as próximas tecnologias que estou planejando aprofundar.
 
 <br>
 
@@ -72,25 +127,81 @@ Hoje desenvolvo aplicações web do front ao back, com HTML, CSS, JavaScript, SQ
 
 ## 💻 Projetos em destaque
 
-### 🏥 [Triage UBS](https://github.com/MilenaAmaral/triage-ubs)
+### 🏥 Triage UBS
 
-Sistema para apoiar a triagem de pacientes em Unidades Básicas de Saúde, organizando informações para agilizar o atendimento — projeto nascido da minha própria vivência na área da saúde.
+Sistema desenvolvido para simular o processo de triagem em uma Unidade Básica de Saúde.
 
-![HTML](https://img.shields.io/badge/HTML-FFF8F3?style=flat-square&logo=html5&logoColor=E34F26) ![CSS](https://img.shields.io/badge/CSS-FFF8F3?style=flat-square&logo=css3&logoColor=1572B6) ![JavaScript](https://img.shields.io/badge/JavaScript-FFF8F3?style=flat-square&logo=javascript&logoColor=B76E79) &nbsp;·&nbsp; 🔗 [Demo](https://milenaamaral.github.io/triage-ubs/)
+O projeto surgiu a partir da minha experiência na área da saúde e foi utilizado para praticar construção de interfaces, lógica de programação e JavaScript.
 
-### 💊 [Etiqueta de Medicação](https://github.com/MilenaAmaral/etiqueta-medicacao)
+**Tecnologias:** HTML5 · CSS3 · JavaScript
 
-Aplicação para identificação e organização de medicamentos, reduzindo risco de erro na administração — necessidade real observada na rotina hospitalar.
+🔗 [Código no GitHub](https://github.com/MilenaAmaral/triage-ubs)
 
-![HTML](https://img.shields.io/badge/HTML-FFF8F3?style=flat-square&logo=html5&logoColor=E34F26) ![CSS](https://img.shields.io/badge/CSS-FFF8F3?style=flat-square&logo=css3&logoColor=1572B6) ![JavaScript](https://img.shields.io/badge/JavaScript-FFF8F3?style=flat-square&logo=javascript&logoColor=B76E79) &nbsp;·&nbsp; 🔗 [Demo](https://milenaamaral.github.io/etiqueta-medicacao/)
+🔗 [Ver projeto](https://milenaamaral.github.io/triage-ubs/)
 
-### 💳 [AnyBank](https://github.com/MilenaAmaral/anybank-app)
+---
 
-Simulação de operações bancárias, explorando lógica de programação, gerenciamento de estado e construção de interface.
+### 💊 Etiqueta de Medicação
 
-![HTML](https://img.shields.io/badge/HTML-FFF8F3?style=flat-square&logo=html5&logoColor=E34F26) ![CSS](https://img.shields.io/badge/CSS-FFF8F3?style=flat-square&logo=css3&logoColor=1572B6) ![JavaScript](https://img.shields.io/badge/JavaScript-FFF8F3?style=flat-square&logo=javascript&logoColor=B76E79) &nbsp;·&nbsp; 🔗 [Demo](https://milenaamaral.github.io/anybank-app/)
+Aplicação desenvolvida para auxiliar na identificação e organização de medicamentos.
 
-📎 Veja todos os projetos no [meu portfólio](https://milenaamaral.github.io/meu-portifolio/).
+O projeto nasceu de uma necessidade observada na rotina profissional e foi utilizado para praticar HTML, CSS, JavaScript e construção de uma interface voltada para um problema específico.
+
+**Tecnologias:** HTML5 · CSS3 · JavaScript
+
+🔗 [Código no GitHub](https://github.com/MilenaAmaral/etiqueta-medicacao)
+
+🔗 [Ver projeto](https://milenaamaral.github.io/etiqueta-medicacao/)
+
+---
+
+### 💳 AnyBank
+
+Projeto desenvolvido para praticar lógica de programação e desenvolvimento de uma aplicação com temática bancária.
+
+**Tecnologias:** HTML5 · CSS3 · JavaScript
+
+🔗 [Código no GitHub](https://github.com/MilenaAmaral/anybank-app)
+
+🔗 [Ver projeto](https://milenaamaral.github.io/anybank-app/)
+
+---
+
+### 📚 Memoteca
+
+Aplicação web desenvolvida para praticar consumo de API, JavaScript e integração entre front-end e back-end.
+
+O projeto utiliza uma API para persistência e consulta dos dados.
+
+**Tecnologias:** HTML5 · CSS3 · JavaScript · API REST
+
+🔗 [Código no GitHub](https://github.com/MilenaAmaral/projeto-memoteca)
+
+🔗 [Ver projeto](https://milenaamaral.github.io/projeto-memoteca/)
+
+---
+
+### 🏭 Industrial Monitoring System
+
+Projeto de monitoramento industrial desenvolvido para trabalhar conceitos de comunicação com CLP Siemens, backend, API e persistência de dados.
+
+O sistema está sendo desenvolvido de forma incremental, incluindo monitoramento de produção, estados da máquina, alarmes, paradas e histórico de dados.
+
+**Tecnologias:** Python · FastAPI · JavaScript · MySQL · python-snap7
+
+🔗 [Código no GitHub](https://github.com/MilenaAmaral/siemens-plc-monitor)
+
+<br>
+
+<p align="center"><sub>· · ·</sub></p>
+
+## 📊 GitHub
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=MilenaAmaral&show_icons=true&hide_border=false&border_color=E8C4C0&bg_color=FFF8F3&title_color=B76E79&icon_color=C9A15F&text_color=4A3F3F" alt="Estatísticas do GitHub" />
+
+</div>
 
 <br>
 
@@ -98,9 +209,11 @@ Simulação de operações bancárias, explorando lógica de programação, gere
 
 ## 🎯 Objetivo profissional
 
-Busco minha primeira oportunidade como **Desenvolvedora Full Stack Júnior**, onde eu possa aplicar meus conhecimentos técnicos, evoluir com um time e contribuir com soluções que gerem valor para usuários e para o negócio.
+Busco uma oportunidade na área de desenvolvimento de software, especialmente em posições **Júnior**, onde eu possa aplicar os conhecimentos que venho construindo, aprender com profissionais mais experientes e contribuir com projetos reais.
 
-Da saúde trago organização, atenção aos detalhes e trabalho em equipe sob pressão; da tecnologia, a vontade constante de aprender rápido e sair da zona de conforto.
+Meu objetivo é evoluir de forma consistente, fortalecendo minha base em desenvolvimento web, bancos de dados, APIs, back-end e arquitetura de aplicações.
+
+A experiência na saúde me trouxe organização, atenção aos detalhes, responsabilidade e capacidade de trabalhar com processos e situações que exigem atenção. Na tecnologia, estou transformando essas experiências em uma nova trajetória profissional.
 
 <br>
 
@@ -108,11 +221,25 @@ Da saúde trago organização, atenção aos detalhes e trabalho em equipe sob p
 
 ## 🌱 Atualmente estudando
 
-- 📚 JavaScript avançado
-- 🗄️ SQL e modelagem de dados
-- #️⃣ C# e fundamentos de .NET
-- 🔗 Boas práticas de Git e GitHub
-- 🧩 Estruturas de dados e lógica de programação
+```text
+JavaScript
+   ↓
+SQL / MySQL
+   ↓
+C# e POO
+   ↓
+Node.js
+   ↓
+APIs REST
+   ↓
+ORM
+   ↓
+MongoDB
+   ↓
+React
+```
+
+Meu foco neste momento é **entender os fundamentos e transformar conhecimento em projetos**, em vez de apenas acumular cursos e certificados.
 
 <br>
 
@@ -122,12 +249,20 @@ Da saúde trago organização, atenção aos detalhes e trabalho em equipe sob p
 
 💌 **Vamos conversar?**
 
-[![E-mail](https://img.shields.io/badge/E--mail-milena.camargo.amaral%40outlook.com-D9A5AE?style=flat-square&logo=gmail&logoColor=white&labelColor=FDF1EC)](mailto:milena.camargo.amaral@outlook.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-milenaamaraldias-C9A15F?style=flat-square&logo=linkedin&logoColor=white&labelColor=FDF1EC)](https://www.linkedin.com/in/milenaamaraldias/)
-[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-milenaamaral.github.io-B76E79?style=flat-square&logo=vercel&logoColor=white&labelColor=FDF1EC)](https://milenaamaral.github.io/meu-portifolio/)
+<a href="https://www.linkedin.com/in/milenaamaraldias/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Milena_Amaral-C9A15F?style=flat-square&logo=linkedin&logoColor=white&labelColor=FDF1EC" alt="LinkedIn" />
+</a>
+
+<a href="https://milenaamaral.github.io/meu-portifolio/" target="_blank">
+  <img src="https://img.shields.io/badge/Portf%C3%B3lio-Milena_Amaral-B76E79?style=flat-square&logo=vercel&logoColor=white&labelColor=FDF1EC" alt="Portfólio" />
+</a>
+
+<br><br>
+
+<sub>Construindo conhecimento, um projeto de cada vez. 🤍</sub>
 
 <br>
 
-<sub>feito com 🤍 por Milena Amaral</sub>
+<sub>feito por <strong>Milena Amaral</strong></sub>
 
 </div>
